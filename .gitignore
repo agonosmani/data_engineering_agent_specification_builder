@@ -1,0 +1,8 @@
+tensile-courier-427312-q7-96f9d3698793.json
+.env
+venv
+agent_ingestion_executor/__pycache__
+app_api_specification_builder/__pycache__
+local_db/*
+data/*
+downloaded_data.db
